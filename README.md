@@ -1,0 +1,2 @@
+# ecommerce_Micro_FrontEnds
+ecommerce_Micro_FrontEnds with Module Federation plugin webpack

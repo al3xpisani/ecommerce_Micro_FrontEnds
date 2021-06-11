@@ -1,6 +1,25 @@
 # ecommerce_Micro_FrontEnds
 ecommerce_Micro_FrontEnds with Module Federation plugin webpack
 
+We have two major functionalities here we need to implement
+
+
+
+
+The old way is to implement both on the same project. THIS IS WRONG AND DANGEROUS
+
+
+
+The rigth way is to develop TWO ISOLATED PROJECTS
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/14879580/121702572-60a9f680-caa8-11eb-9053-e47bfff03167.png)
+
+
 We will have 3 projects to implement.
 
 Container : One project that will decide when and where to show each of the two microFrontEnds (ProductList and Cart).

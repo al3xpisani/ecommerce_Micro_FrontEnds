@@ -1,5 +1,7 @@
 # ecommerce_Micro_FrontEnds
 ecommerce_Micro_FrontEnds with Module Federation plugin webpack
+Credits to Stephen Grider
+Engineering Architect
 
 We have two major functionalities here we need to implement
 
